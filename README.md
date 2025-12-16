@@ -68,7 +68,7 @@ print(response)
 
 ![Query Output Screenshot](jaison_folder/Part%201.1%20Database%20Setup%20(Individual)%20Screenshot/PART_1_SCREENSHOT_DATABASE_CONNECTION.png)
 
----
+
 
 ## Notes
 
