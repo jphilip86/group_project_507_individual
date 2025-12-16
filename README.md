@@ -1,6 +1,6 @@
-## Database Connection and Data Exploration
+## Database Connection 
 
-This document outlines the steps I followed to set up my Python environment, connect to the MySQL database, and explore the `research_experiment_refactor_test` table.
+These are the steps to set up my Python environment, connect to the MySQL database, and explore the `research_experiment_refactor_test` table.
 
 ---
 
@@ -73,8 +73,6 @@ print(response)
 ## Notes
 
 - I made sure to exclude the `.env` file from version control by adding it to `.gitignore`
-- The `USERNAME` variable was renamed to avoid conflicts with Windows reserved keywords
-- The query was limited to 1000 rows for initial exploration
 - The group project repository is hosted at: https://github.com/SBU-Sports-Metrics/507_groupproject_2025.git
 ---
 
